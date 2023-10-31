@@ -1,2 +1,3 @@
-# mydevops
-My first Devops Project A
+# DevOps
+My first Devops Project A & B 
+
